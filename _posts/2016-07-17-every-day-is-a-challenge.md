@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Every day is a challenge.
-datePublished: '2016-07-17T02:18:47.223Z'
-dateModified: '2016-07-17T02:18:32.187Z'
+datePublished: '2016-07-17T02:28:02.781Z'
+dateModified: '2016-07-17T02:20:49.227Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-17-every-day-is-a-challenge.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-17-every-day-is-a-challenge.md
 url: every-day-is-a-challenge/index.html
 _type: Article
 
