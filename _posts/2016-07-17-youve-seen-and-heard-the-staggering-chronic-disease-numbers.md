@@ -8,21 +8,22 @@ description: >-
   You’ve seen and heard the staggering chronic disease numbers before but let’s
   review them in case you haven’t (and to emphasize the problem if you have seen
   them).
-datePublished: '2016-07-17T02:09:33.779Z'
-dateModified: '2016-07-17T02:09:22.686Z'
+datePublished: '2016-07-17T02:23:07.313Z'
+dateModified: '2016-07-17T02:11:39.599Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-07-17-youve-seen-and-heard-the-staggering-chronic-disease-numbers.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-07-17-youve-seen-and-heard-the-staggering-chronic-disease-numbers.md
 url: youve-seen-and-heard-the-staggering-chronic-disease-numbers/index.html
 _type: Article
 
 ---
-You've seen and heard the staggering chronic disease numbers before but let's review them in case you haven't (and to emphasize the problem if you have seen them).
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d13a147a-fe84-42f5-a933-ca4bf34c1fa2.png)
+
+You've seen and heard the staggering chronic disease numbers before but let's review them in case you haven't (and to emphasize the problem if you have seen them).
 
 According to the Centers for Disease Control and Prevention 2010 FastStats:
 
